@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🧠 Artemische — Portfolio
 
-## Getting Started
+Welcome to my personal portfolio built with **Next.js** and **Tailwind CSS**.  
+It showcases selected projects I’ve built over the years — from Telegram apps to AI-powered platforms and automation tools.
 
-First, run the development server:
+![Preview Screenshot](./public/portfolio_preview.jpg)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ Tech Stack
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- ⚛️ **Next.js 14** (App Router)
+- 🎨 **Tailwind CSS** with dark theme
+- 🔍 Fully responsive, mobile-first layout
+- 🔗 Deployed on **Vercel**
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🚀 Live Demo
 
-## Learn More
+[🔗 View Portfolio Website](https://your-vercel-link.vercel.app)
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📸 Featured Projects
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Each project card includes:
+- 🧩 Tech stack used
+- 🧠 Key features
+- 🔥 Real-world use or deployment
+- 📷 Custom visual preview
 
-## Deploy on Vercel
+> _Some projects are under NDA — this portfolio includes only public cases._
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📬 Contact Me
+
+You can reach out via:
+- [Telegram](https://t.me/DurianOG)
+- [LinkedIn](https://www.linkedin.com/in/artsem-lisouski-ab987a210/)
+- [GitHub](https://github.com/Artemische)
+- [MailMe](mailto:lis.fox690@gmail.com)
+
+---
+
+## 🪄 License
+
+This portfolio project is open-source and free to use for learning and inspiration.
+
+---
+
+_Designed and developed by **Artemische**
