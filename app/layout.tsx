@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
-import "./globals.css";
 import { ContactProvider } from "./context/ContactContext";
+import { Analytics } from '@vercel/analytics/next';
+import "./globals.css";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -13,7 +14,7 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-export const metadata = {
+export const metadata: Metadata = {
   title: 'Artemische — Portfolio',
   description: 'Full-stack JavaScript developer with 6+ years of experience. Portfolio includes production-ready apps in React, Next.js, SAPUI5, and AI-powered platforms.',
   openGraph: {
@@ -49,6 +50,7 @@ export default function RootLayout({
       >
         <ContactProvider>
           {children}
+          <Analytics />
         </ContactProvider>
       </body>
     </html>
