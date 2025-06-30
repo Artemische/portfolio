@@ -18,11 +18,19 @@ export const metadata = {
   description: 'Full-stack JavaScript developer with 6+ years of experience. Portfolio includes production-ready apps in React, Next.js, SAPUI5, and AI-powered platforms.',
   openGraph: {
     title: 'Artemische — Portfolio',
-    description: ', UI-дизайн, Telegram WebApp и не только.',
-    url: 'https://yourdomain.com',
+    description: 'Проекты, UI-дизайн, Telegram WebApp и не только.',
+    url: 'https://portfolionext-zeta.vercel.app/',
     siteName: 'Artemische',
     locale: 'en_US',
     type: 'website',
+    images: [
+      {
+        url: '/portfolio_preview.jpg', // путь к файлу в public/
+        width: 1200,
+        height: 630,
+        alt: 'Artemische Portfolio Preview',
+      },
+    ],
   },
   icons: {
     icon: '/favicon.ico',
